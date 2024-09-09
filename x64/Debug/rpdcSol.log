@@ -1,0 +1,27 @@
+﻿  backend.cpp
+D:\rpdc-backend\backend.cpp(56,31): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\rpdc-backend\backend.cpp(232,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\rpdc-backend\backend.cpp(284,16): warning C4101: 'res_set': unreferenced local variable
+D:\rpdc-backend\backend.cpp(285,15): warning C4101: 'row': unreferenced local variable
+  main.cpp
+  cmdframe.cpp
+D:\rpdc-backend\modules\cmdframe.cpp(67,13): warning C4244: '=': conversion from 'unsigned long' to 'unsigned char', possible loss of data
+D:\rpdc-backend\modules\cmdframe.cpp(68,13): warning C4244: '=': conversion from 'unsigned long' to 'unsigned char', possible loss of data
+D:\rpdc-backend\modules\cmdframe.cpp(69,11): warning C4244: '=': conversion from 'unsigned long' to 'unsigned char', possible loss of data
+  connection.cpp
+  socketinit.cpp
+D:\rpdc-backend\modules\socketinit.cpp(28,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  structures.cpp
+  utilities.cpp
+D:\rpdc-backend\modules\utilities.cpp(67,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\rpdc-backend\modules\utilities.cpp(82,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\rpdc-backend\modules\utilities.cpp(121,22): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\rpdc-backend\modules\utilities.cpp(223,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\rpdc-backend\modules\utilities.cpp(224,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\rpdc-backend\modules\utilities.cpp(330,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\rpdc-backend\modules\utilities.cpp(331,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\rpdc-backend\modules\utilities.cpp(466,31): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\rpdc-backend\modules\utilities.cpp(479,31): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  LINK : D:\rpdc-backend\x64\Debug\rpdcSol.exe not found or not built by the last incremental link; performing full link
+  rpdcSol.vcxproj -> D:\rpdc-backend\x64\Debug\rpdcSol.exe

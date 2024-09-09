@@ -1,0 +1,2 @@
+D:\pdc\rpdc_solution\rpdc\x64\Debug\rpdcSol.exe
+D:\rpdc-backend\x64\Debug\rpdcSol.exe
